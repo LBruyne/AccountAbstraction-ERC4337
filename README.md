@@ -5,7 +5,7 @@ The main purpose of this implementation is to understand and experience firsthan
 
 - The implementation of `postOp`
 - The `deadline` mechanism
-- The `simulation` part of ERC-4377, as it only needs slight modification to the main execution logic to achieve this
+- The `simulation` part of ERC-4337, as it only needs slight modification to the main execution logic to achieve this
 
 However, I believe this is a good material for learning and understanding this proposal.
 
